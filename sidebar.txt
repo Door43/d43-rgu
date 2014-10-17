@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rgu:home|Door43 (rgu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rgu|d43-rgu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rgu/archive/master.zip|d43-rgu.zip]]
+
+**Recent Changes**
+{{changes>ns = rgu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rgu|Ethnologue data]]
+
